@@ -141,5 +141,5 @@ dmypy.json
 
 # profiling data
 .prof
-
+chromedriver
 # End of https://www.toptal.com/developers/gitignore/api/python
